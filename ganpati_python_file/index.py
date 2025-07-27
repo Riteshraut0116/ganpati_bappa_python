@@ -1,6 +1,6 @@
 from turtle import*
 
-title('CoderHuBhai')
+title('Ganpati Bappa Morya!')
 bgcolor("black")
 speed(4)
 pencolor('red')
