@@ -14,7 +14,7 @@ The Python script `index.py` contains a sequence of `turtle` graphics commands t
 
 When you run the script, a `turtle` graphics window will open and you will see the image being drawn in real-time.
 
-*(Here is where you could place a screenshot of the final image once you run the code)*
+![Final Output](ganpati_python_file/pythonoutput.png)
 
 ---
 
